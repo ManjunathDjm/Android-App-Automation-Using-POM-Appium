@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/htmlunit-driver-2.31.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/java-client-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/opencsv-2.1-1.0.0-sources.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/opencsv-2.3.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/reportng-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/reportng-1.1.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/safaridriver.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/selenium-android-driver.jar.zip"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/SaveyraAndroidAutomation/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

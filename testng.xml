@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="7" name="Test">
+    <classes>
+      <class name="com.saveyra.tests.SignupCardLogin"/>
+      <class name="com.saveyra.tests.KeyboardCardHomePage"/>
+      <class name="com.saveyra.tests.MediaAccessCard"/>
+      <class name="com.saveyra.tests.MaleAvataUsingCard"/>
+      <class name="com.saveyra.tests.LocationAccessCard"/>
+      <class name="com.saveyra.tests.GuestUserShare"/>
+      <class name="com.saveyra.tests.FacebookLoginShare"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
